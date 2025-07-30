@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
                 absentBtn.setEnabled(false);
 
                 // Show popup
-                showPopup("No need to fill the form.");
+                showPopup("No need to fill the form you are absent.");
             }
         });
     }
